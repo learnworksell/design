@@ -2,4 +2,4 @@
 
 As taught in [UX Apprentice](https://www.uxapprentice.com/)
 
-## Stakeholder Interview
+## [Stakeholder Interview](./stakeholder-interview.md)
